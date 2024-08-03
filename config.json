@@ -9,16 +9,16 @@
     "keyAdminOnly": "",
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTOWNER": "Siegfried Sama",
-    "OWNERLINK": "https://www.facebook.com/siegriedsamaq",
-    "OWNERID": "100070646281323",
-    "BOTCREATOR": "Siegfried Sama",
-    "CREATORLINK": "https://www.facebook.com/siegriedsamaq",
-    "CREATORID": "100070646281323",
-    "BOTNAME": "Mysterious",
-    "PREFIX": ".",
+    "BOTOWNER": "Uzui Tengen",
+    "OWNERLINK": "https://www.facebook.com/100083992789919",
+    "OWNERID": "100083992789919",
+    "BOTCREATOR": "Uzui Sama",
+    "CREATORLINK": "https://www.facebook.com/100083992789919",
+    "CREATORID": "100083992789919",
+    "BOTNAME": "Yuna",
+    "PREFIX": "+",
     "ADMINBOT": [
-        "100070646281323"
+        "100083992789919"
     ],
     "Wibu_API": "iyEro7YK",
     "DATABASE": {
